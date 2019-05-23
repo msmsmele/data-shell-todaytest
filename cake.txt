@@ -3,5 +3,3 @@ flour
 sugar
 milk
 eggs
-chocolate chips
-peanuts
